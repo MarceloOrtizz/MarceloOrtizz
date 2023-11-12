@@ -32,20 +32,27 @@
 
 ### 💻 Profile Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloortizz&show_icons=true&locale=en&theme=tokyonight" alt="marceloortizz" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloortizz&show_icons=true&locale=en&theme=tokyonight" alt="marceloortizz" /></p>
+</div>
 
 ### 📊 Languages
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloortizz&layout=compact&theme=tokyonight" alt="marceloortizz" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloortizz&layout=compact&theme=tokyonight" alt="marceloortizz" /></p>
+</div>
 
 ### 🔥 Streak Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloortizz&theme=tokyonight" alt="marceloortizz" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloortizz&theme=tokyonight" alt="marceloortizz" /></p>
+</div>
 
 ### ⏲ Hobbies
 
-<p><img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></p>
+<div align="center">
+  <p><img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
