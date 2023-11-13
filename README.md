@@ -21,7 +21,7 @@
 
 <p align="left"> 
 <!--- vsc -->
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="80" height="80"/>
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="80" height="80" onclick="window.location.href='https://www.python.org'" style="cursor: pointer;"/>
 <!--- python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
 <!--- jupyter -->
