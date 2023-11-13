@@ -20,9 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://git-scm.com" target="_blank">Abrir en nueva pestaña</a>
 <!--- vsc -->
-<a href="https://code.visualstudio.com/" target="_blank" ><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="80" height="80"/></a>
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="vsc" width="80" height="80"/>
 <!--- python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
 <!--- jupyter -->
