@@ -90,7 +90,9 @@
 ### 💻 Profile Stats
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloortizz&show_icons=true&locale=en&theme=tokyonight" alt="marceloortizz" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloortizz&show_icons=true&locale=en&theme=tokyonight" /></p>
+
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=radical"/> -->
 </div>
 
 ### 📊 Languages
