@@ -90,7 +90,7 @@
 ### 💻 Profile Stats
 
 <div align="center">
-  <a href="https://github.com/jmoc3">
+  <a href="https://github.com/marceloortizz">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloortizz&show_icons=true&locale=en&theme=tokyonight" />
   </a>
 </div>
@@ -98,13 +98,17 @@
 ### 📊 Languages
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloortizz&layout=compact&theme=tokyonight" alt="marceloortizz" /></p>
+    <a href="https://github.com/marceloortizz">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloortizz&layout=compact&theme=tokyonight" alt="marceloortizz" />
+    </a>
 </div>
 
 ### 🔥 Streak Stats
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloortizz&theme=tokyonight" alt="marceloortizz" /></p>
+  <a href="https://github.com/marceloortizz">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloortizz&theme=tokyonight" alt="marceloortizz" />
+  </a>
 </div>
 
 ### ⏲ Hobbies
