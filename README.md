@@ -53,11 +53,15 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <!--- aws -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQEix4Xg2j8ZSugqYQucUTyXq8L5-vAxVzzRJbU145sAc1JDpu_V7gjiB6Yewhckvg-k&usqp=CAU" alt="aws" width="40" height="40"/> </a> 
-<!--- tensorflow -->
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<!--- gcp -->
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="Google Cloud Platform" width="40" height="40"/>
+</a>
 <!--- fastapi -->
 </a><a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
 </p>
+
+
 
 <p align="left"> 
 <!--- html -->
