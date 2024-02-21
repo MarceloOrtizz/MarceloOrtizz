@@ -2,13 +2,8 @@
 
 
 <!--- snake -->
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="snake">
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
+    <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
 
