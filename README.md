@@ -2,9 +2,15 @@
 
 
 <!--- snake -->
+
 <div align="center">
-    <img src="https://github.com/MarceloOrtizz/MarceloOrtizz/img/snake.svg" alt="snake">
+    <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
+</div>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer+in+progress;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
