@@ -59,6 +59,8 @@
 </a>
 <!--- fastapi -->
 </a><a href="https://fastapi.tiangolo.com/" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+<!--- streamlit -->
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45109972?s=280&v=4" alt="streamlit" width="40" height="40"/> </a>
 </p>
 
 
